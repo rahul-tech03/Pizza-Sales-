@@ -1,1 +1,1 @@
-Pizza sale analysis usinf SQL 
+Pizza sale analysis usin SQL (MySQL)
